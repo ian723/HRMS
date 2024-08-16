@@ -30,7 +30,7 @@
 <!-- //footer --> 
 	<div class="copyright-w3-agile">
 		<div class="container">
-			<p>© 2018 company | All rights reserved.</p>
+			<p>© 2024 company | All rights reserved.</p>
 			<div class="clearfix"> </div>
 		</div>
 	</div>

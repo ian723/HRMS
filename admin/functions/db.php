@@ -11,7 +11,7 @@ error_reporting(E_ALL);
 $host= 'localhost';
 $user='root';
 $usrpassword='';
-$database='Company';
+$database='company';
 
 
   /* DATABASE CONNECTIONS AS DEFINED IN VARIOUS PAGES*/
